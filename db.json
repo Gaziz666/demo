@@ -10,6 +10,32 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "cards": [
+    {   
+      id: 1,
+      img: 'https://cofix.by/local/templates/main/img/logo.svg',
+      titleitle: 'Cofix',
+      url: 'https://cofix.by/',
+      type: 'Home',
+      text: 'Международная сеть Cofix открыла уже более 180 кофеен! Ароматный свежесваренный кофе, лимонады, апельсиновый и морковный фреш, выпечка, сэндвичи, салаты, суп, пицца и десерты – все по фиксированной цене.'
+    },
+    {
+      id: 2,
+      img: 'https://static.fix-price.by/images/adaptive/logo.png',
+      title: 'FixPrice',
+      url: 'https://fix-price.by/',
+      type: 'Home',
+      text: 'Магия HALLOWEEN '
+    },
+    {
+      id: 3,
+      img: 'https://pngimg.com/uploads/github/github_PNG40.png',
+      title: 'GitHub',
+      url: 'https://github.com/',
+      type: 'Like',
+      text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the '
+    }
+  ]
 }
   
