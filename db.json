@@ -13,7 +13,7 @@
       "img": "https://static.fix-price.by/images/adaptive/logo.png",
       "title": "FixPrice",
       "url": "https://fix-price.by/",
-      "type": "home",
+      "type": "archive",
       "text": "Магия HALLOWEEN"
     },
     {
@@ -29,7 +29,7 @@
       "img": "",
       "title": "Youtube",
       "url": "https://www.youtube.com/",
-      "type": "liked",
+      "type": "video",
       "text": "YoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutube"
     },
     {
@@ -37,7 +37,7 @@
       "img": "",
       "title": "Google",
       "url": "https://www.google.com/",
-      "type": "archive",
+      "type": "home",
       "text": "YoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutubeYoutube"
     }
   ],
